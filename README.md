@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @resquivel
 - 👀 I’m the founder of https://woolfie.team
-- 🌱 I’m primarily a Kotlin/Spring developer
+- 🌱 I’m primarily a backend Kotlin engineer
 - 📫 How to reach me: https://twitter.com/rhodaesq
 
 <!---
